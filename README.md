@@ -1,6 +1,7 @@
 # ChatGPT Friend > Co-Worker
 Can ChatGPT replace a human for simple web researching taks?
 
+## This graph shows the differencce between the actaull age of the candidate it was interested in and the age it thought the candidate was. 
 ![age dist](https://github.com/user-attachments/assets/8da9dcdc-2501-4f73-b13a-3555c6ff2c96)
 
 
