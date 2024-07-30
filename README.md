@@ -1,7 +1,7 @@
 # ChatGPT Friend > Co-Worker
 Can ChatGPT replace a human for simple web researching taks?
 
-## This graph shows the difference between the prediction and actaul age of the senate candidate. 
+## This graph shows the difference between the prediction and actual age of the senate candidate. 
 ![age dist](https://github.com/user-attachments/assets/8da9dcdc-2501-4f73-b13a-3555c6ff2c96)
 
 
