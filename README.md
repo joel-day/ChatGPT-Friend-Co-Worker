@@ -1,5 +1,5 @@
 # ChatGPT-Friend-Co-Worker
-The code behind my medium post investigating the ability for ChatGPT to websearch
+Can ChatGPT replace a human for simple web researching taks?
 
 ![gandalf3](https://github.com/user-attachments/assets/0bb9e1ce-1902-4b3a-b53d-a84b96b1bec0)
 
