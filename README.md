@@ -1,4 +1,4 @@
-# ChatGPT-Friend-Co-Worker
+# ChatGPT Friend > Co-Worker
 Can ChatGPT replace a human for simple web researching taks?
 
 ![age dist](https://github.com/user-attachments/assets/8da9dcdc-2501-4f73-b13a-3555c6ff2c96)
